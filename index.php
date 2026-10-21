@@ -53,17 +53,11 @@
         <h3 class="text-xl font-bold mb-2">Seguro</h3>
         <p>Construido con buenas prácticas de desarrollo.</p>
       </div>
-      <!-- NUEVA Característica 5 -->
-      <div class="p-6 bg-white shadow rounded-lg">
-        <i class="fas fa-chart-line text-4xl text-blue-600 mb-4"></i>
-        <h3 class="text-xl font-bold mb-2">Escalable</h3>
-        <p>Preparado para crecer junto a las necesidades de tu negocio.</p>
-      </div>
     </div>
   </section>
 
-  <!-- Tecnologias -->
-  <section class="py-16 bg-gray-50">
+
+  <!-- Tecnologias -->  <section class="py-16 bg-gray-50">
     <div class="container mx-auto text-center mb-10">
       <h2 class="text-3xl font-bold text-blue-600">Tecnologías</h2>
       <p class="text-gray-600 mt-2">Herramientas modernas que usamos en nuestros proyectos</p>
