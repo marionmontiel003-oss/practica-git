@@ -53,6 +53,12 @@
         <h3 class="text-xl font-bold mb-2">Seguro</h3>
         <p>Construido con buenas prácticas de desarrollo.</p>
       </div>
+    <!-- NUEVA Característica 6 -->
+    <div class="p-6 bg-white shadow rounded-lg">
+      <i class="fas fa-headset text-4xl text-blue-600 mb-4"></i>
+      <h3 class="text-xl font-bold mb-2">Soporte</h3>
+      <p>Asistencia técnica dedicada para resolver cualquier duda.</p>
+    </div>
     </div>
   </section>
 
