@@ -56,6 +56,30 @@
     </div>
   </section>
 
+  <!-- Tecnologias -->
+  <section class="py-16 bg-gray-50">
+    <div class="container mx-auto text-center mb-10">
+      <h2 class="text-3xl font-bold text-blue-600">Tecnologías</h2>
+      <p class="text-gray-600 mt-2">Herramientas modernas que usamos en nuestros proyectos</p>
+    </div>
+    <div class="container mx-auto grid md:grid-cols-4 gap-8 text-center">
+      <div class="p-6 bg-white shadow rounded-lg">
+        <i class="fab fa-html5 text-5xl text-orange-500 mb-4"></i>
+        <h3 class="text-xl font-semibold">HTML5</h3>
+        <p class="text-gray-600">Estructura semántica y moderna para la web.</p>
+      </div>
+      <div class="p-6 bg-white shadow rounded-lg">
+        <i class="fab fa-css3-alt text-5xl text-blue-500 mb-4"></i>
+        <h3 class="text-xl font-semibold">CSS3</h3>
+        <p class="text-gray-600">Estilos avanzados y animaciones fluidas.</p>
+      </div>
+      <div class="p-6 bg-white shadow rounded-lg">
+        <i class="fab fa-react text-5xl text-cyan-500 mb-4"></i>
+        <h3 class="text-xl font-semibold">React</h3>
+        <p class="text-gray-600">Componentes reutilizables y UI eficiente.</p>
+      </div>
+    </div>
+  </section>
   <!-- Footer -->
   <footer class="bg-gray-800 text-white py-6">
     <div class="container mx-auto flex justify-center space-x-6">
@@ -70,4 +94,5 @@
 
 </body>
 </html>
+
 
